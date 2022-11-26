@@ -21,7 +21,7 @@ namespace DragDrop.Driver
         }
         public static void Cleanup()
         {
-            Instance?.Quit();
+            Instance?.Quit();BaneBane
         }
 
     }
